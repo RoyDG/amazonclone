@@ -10,6 +10,14 @@
 
 # production
 /build
+/.firebase
+/firebase.json
+/.firebaserc
+#json
+/package.json
+/package-lock.json
+/README.md
+/serviceWorker.js
 
 # misc
 .DS_Store
